@@ -43,18 +43,18 @@ Este archivo HTML contiene:
 </body>
 </html>
 ```
-script.js
+## script.js
 Este archivo JavaScript contiene:
 
 Una función para mostrar el nombre guardado en el Local Storage.
 Un manejador de eventos para el envío del formulario, que guarda el nombre en el Local Storage y actualiza la visualización del nombre.
 Un manejador de eventos para el botón de eliminar, que elimina el nombre del Local Storage y actualiza la visualización del nombre.
 
-Requisitos
+## Requisitos
 Este proyecto solo requiere un navegador web moderno que soporte el API de Local Storage.
 
-Autor
+## Autor
 Este ejemplo fue creado por Marco Tapia, Axel Pastillo, Erick Caiza y Lenin Masapanta.
 
-Licencia
+## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.

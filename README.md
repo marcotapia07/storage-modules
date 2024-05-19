@@ -42,7 +42,7 @@ Este archivo HTML contiene:
     <script src="script.js"></script>
 </body>
 </html>
-
+```
 script.js
 Este archivo JavaScript contiene:
 
